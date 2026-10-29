@@ -49,7 +49,6 @@ Point the camera at any object and learn its name in **Spanish, English, French,
 ![Expo](https://img.shields.io/badge/Expo-0B1322?style=flat-square&logo=expo&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-0B1322?style=flat-square&logo=node.js&logoColor=5FA04E)
 ![Git](https://img.shields.io/badge/Git-0B1322?style=flat-square&logo=git&logoColor=F05032)
-![GitHub Actions](https://img.shields.io/badge/Automation-0B1322?style=flat-square&logo=githubactions&logoColor=2088FF)
 
 </div>
 
