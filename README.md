@@ -1,118 +1,89 @@
 <div align="center">
 
 # Hi, I'm Andrés (Goanarchy) 👋
-### **Product & Systems Engineer · Local-First, High-Performance & Privacy-Centric Software**
+### **Independent Software Developer · Building Apps, Tools & Digital Products**
 
 <p align="center">
   <a href="https://github.com/Goanarchy"><img src="https://img.shields.io/badge/GitHub-Goanarchy-181717?style=for-the-badge&logo=github" alt="GitHub" /></a>
-  <img src="https://img.shields.io/badge/Focus-Local--First_%26_Privacy--First-0ea5e9?style=for-the-badge" alt="Focus" />
-  <img src="https://img.shields.io/badge/Architecture-Clean_%26_Offline--Resilient-10b981?style=for-the-badge" alt="Architecture" />
+  <img src="https://img.shields.io/badge/Role-Independent_Software_Engineer-0ea5e9?style=for-the-badge" alt="Role" />
+  <img src="https://img.shields.io/badge/Scope-Web_·_Mobile_·_Tools_·_Systems-10b981?style=for-the-badge" alt="Scope" />
 </p>
 
 ---
 
-> *"I build software that respects people: fast, elegant, completely functional offline, with zero subscriptions, zero forced logins, and zero unnecessary dependencies."*
+> *"I am an independent developer building end-to-end software: from mobile apps and web platforms to productivity tools, automation engines, and business systems. Fast, pragmatic, and polished."*
 
 </div>
 
 ---
 
-## ⚡ Featured Engineering & Flagship Architectures
+## 🚀 What I Build
+
+As an independent software developer, I turn ideas and problems into production-ready software across multiple domains:
 
 <table>
   <tr>
-    <td width="33%" valign="top">
-      <h3 align="center">📱 LingoLens</h3>
-      <p align="center"><em>Visual Language Learning System</em></p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Expo_SDK_58-000000?style=flat-square&logo=expo&logoColor=white" />
-        <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-      </p>
-      <ul>
-        <li>Point your camera at any object and learn its name in <strong>5 languages</strong> (ES, EN, FR, DE, IT) with written and native audio pronunciation.</li>
-        <li>On-device <strong>SM-2 spaced repetition</strong> scheduling algorithm.</li>
-        <li>100% functional offline with built-in emergency local catalog.</li>
-        <li>Zero tracking, zero accounts, zero paywalls.</li>
-      </ul>
-      <p align="center">
-        <a href="https://github.com/Goanarchy/LingoLens"><strong>Explore Repository →</strong></a>
-      </p>
+    <td width="50%" valign="top">
+      <h3>🌐 Modern Web Applications</h3>
+      <p>Responsive, reactive web apps, dashboards, and data-driven portals built with modern component architectures, fluid UX, and clean state management.</p>
+      <p><code>React</code> · <code>Vite</code> · <code>Tailwind CSS</code> · <code>TypeScript</code> · <code>Next.js</code></p>
     </td>
-    <td width="33%" valign="top">
-      <h3 align="center">🧠 Neuronal Money</h3>
-      <p align="center"><em>60 FPS Neural Graph Topology Engine</em></p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/HTML5_Canvas-E34F26?style=flat-square&logo=html5&logoColor=white" />
-        <img src="https://img.shields.io/badge/d3--force-F9A03C?style=flat-square&logo=d3.js&logoColor=white" />
-        <img src="https://img.shields.io/badge/React_18-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-      </p>
-      <ul>
-        <li>Futuristic cyberpunk interactive neural network mapping <strong>$57.65M in campaign finance</strong>, 155 politicians, and <strong>6,455 synaptic ties</strong>.</li>
-        <li>Physics-based force-directed simulation with real-time traveling photon pulses.</li>
-        <li>Multi-layer filters: Money flows, joint committees, co-sponsored bills & bipartisan alliances.</li>
-        <li><strong>BFS Synaptic Pathfinder</strong> ("Six Degrees of Influence") algorithm.</li>
-      </ul>
-      <p align="center">
-        <strong>Flagship Data Viz & Graph Engine</strong>
-      </p>
+    <td width="50%" valign="top">
+      <h3>📱 Mobile Applications</h3>
+      <p>Cross-platform mobile applications designed with a focus on intuitive interfaces, offline resilience, on-device computing, and fluid user experiences.</p>
+      <p><code>React Native</code> · <code>Expo</code> · <code>Mobile Architecture</code> · <code>Zustand</code></p>
     </td>
-    <td width="33%" valign="top">
-      <h3 align="center">🏭 MT HVAC Warehouse Pro</h3>
-      <p align="center"><em>Local-First Industrial Operations</em></p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
-        <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
-        <img src="https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white" />
-      </p>
-      <ul>
-        <li>Enterprise-grade HVAC inventory & logistics system engineered for 100% offline, zero-cloud environments.</li>
-        <li>Decoupled ACID transactional database engine running on raw Excel spreadsheets via <code>exceljs</code>.</li>
-        <li>Barcode scanner integration, real-time stock alerts & PDF dispatch notes with digital signatures.</li>
-        <li><strong>100% test coverage</strong> across 21 unit and integration suites.</li>
-      </ul>
-      <p align="center">
-        <strong>Mission-Critical Industrial Suite</strong>
-      </p>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>⚙️ Business Systems & Backends</h3>
+      <p>Custom inventory engines, workflow managers, RESTful microservices, and internal administrative tooling that automate repetitive business operations.</p>
+      <p><code>Node.js</code> · <code>Express</code> · <code>REST APIs</code> · <code>Local-First Engines</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🛠️ Developer Utilities & Automation</h3>
+      <p>CLI tools, data processing pipelines, report generators, scrapers, and background daemons engineered to save time and reduce friction.</p>
+      <p><code>Node.js CLI</code> · <code>Python</code> · <code>Shell / PowerShell</code> · <code>Automation</code></p>
     </td>
   </tr>
 </table>
 
 ---
 
-## 🛠️ Technical Arsenal
+## 🛠️ Technical Stack & Tooling
 
 <div align="center">
 
-| Domain | Technologies & Frameworks |
+| Area | Technologies |
 |---|---|
-| **Mobile & Frontend** | `React Native` · `Expo SDK` · `React 18/19` · `TypeScript` · `JavaScript (ESM)` · `Tailwind CSS` · `Zustand` · `HTML5 Canvas 2D` |
-| **Backend & Systems** | `Node.js` · `Express.js` · `RESTful APIs` · `Excel Database Engines (ExcelJS)` · `File Stream Pipelines` · `Child Processes` |
-| **Algorithms & Visualization** | `D3.js (d3-force)` · `Graph Theory (BFS / Shortest Path)` · `Spaced Repetition (SM-2)` · `Computer Vision / OCR` |
-| **Testing & Tooling** | `Vitest` · `Supertest` · `Vite` · `Git` · `PostCSS` · `PowerShell` · `Batch Scripting` |
+| **Frontend & UI** | `React` · `TypeScript` · `JavaScript (ES6+)` · `Tailwind CSS` · `HTML5 / CSS3` · `State Management` |
+| **Mobile Development** | `React Native` · `Expo SDK` · `Cross-Platform Mobile` · `Offline Storage` |
+| **Backend & APIs** | `Node.js` · `Express.js` · `RESTful APIs` · `JSON Pipelines` · `File & Data Streaming` |
+| **Data & Architecture** | `Relational & Document Data` · `Data Visualization` · `Local Storage Engines` · `Algorithm Design` |
+| **Quality & Operations** | `Vitest` · `Unit & Integration Testing` · `Git & GitHub` · `Vite` · `CI / Automation Scripts` |
 
 </div>
 
 ---
 
-## 📐 Engineering Principles
+## 💡 How I Work as an Independent Developer
 
 ```
   ┌───────────────────────┐     ┌───────────────────────┐     ┌───────────────────────┐
-  │   Local-First Core    │     │   Zero Bloat & Speed  │     │   Rigorous Quality    │
-  │ Software must run     │ ──► │ Sub-millisecond APIs, │ ──► │ Automated testing,    │
-  │ without relying on a  │     │ 60 FPS renders, and   │     │ strict typings, and   │
-  │ remote subscription.  │     │ lean dependencies.    │     │ reproducible builds.  │
+  │  End-to-End Ownership │     │ Pragmatic Engineering │     │  User-Centered Craft  │
+  │ From initial concept  │ ──► │ Pick the right stack  │ ──► │ Polished details,     │
+  │ to architecture, code │     │ without bloat. Build  │     │ fast load times, and  │
+  │ and deployment.       │     │ things that work.     │     │ zero unnecessary drag.│
   └───────────────────────┘     └───────────────────────┘     └───────────────────────┘
 ```
 
-* **Local-First & Offline Resilience:** Cloud is an enhancement, never a hard requirement. If the internet goes down, the software still runs at full speed.
-* **Radical Privacy:** No third-party ad trackers, no telemetry harvesting, no forced user registration for basic tools.
-* **Small, Honest & Polished:** Every feature is polished to production standards—haptics, accessibility, precise feedback, and clean state machines.
+1. **Full-Cycle Execution:** I don't just write code; I design solutions, architect data flows, build intuitive user experiences, and ensure the entire app functions reliably.
+2. **Speed & Pragmatism:** I choose clean, maintainable tech stacks that allow for fast iteration without carrying technical debt or fragile dependencies.
+3. **Versatility:** Whether it is a quick desktop utility, a mobile tool, a business administrative system, or a full-scale web application, I adapt to the right tool for the job.
 
 ---
 
-## 📊 Live GitHub Analytics
+## 📊 Live GitHub Activity
 
 <div align="center">
 
@@ -125,9 +96,8 @@
 
 <div align="center">
 
-**Open to collaboration on local-first apps, graph tools, and high-performance engineering.**  
-Feel free to open an issue or connect on [GitHub](https://github.com/Goanarchy).
-
-<sub>All personal projects are licensed under MIT unless stated otherwise.</sub>
+### 🤝 Available for Independent Projects & Collaborations
+Have an app, tool, or product you need built from scratch or taken to the next level?  
+**Let's build something great together.** Connect with me right here on [GitHub](https://github.com/Goanarchy).
 
 </div>
