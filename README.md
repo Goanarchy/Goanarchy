@@ -58,8 +58,8 @@ As an independent software developer, I turn ideas and problems into production-
     <td width="50%" valign="top">
       <h3><a href="https://github.com/Goanarchy/Watchdogs-NJ-Civic-Analytics">🏛️ Watchdogs Media · Civic Lab</a></h3>
       <p><strong>Bilingual New Jersey Civic Intelligence &amp; Legislative Analytics</strong></p>
-      <p>EN/ES analytics platform covering all 120 NJ legislators, 11,475 bills, 100% NJ ELEC campaign finance, campaign promises, and US Census ACS 2024 5-Year district data.</p>
-      <p><code>React</code> · <code>TypeScript</code> · <code>Vite</code> · <code>NJ ELEC</code> · <code>US Census ACS</code> · <code>Local-First</code></p>
+      <p><a href="https://goanarchy.github.io/Watchdogs-NJ-Civic-Analytics/">🌐 Live App</a> · EN/ES analytics platform covering all 120 NJ legislators, 11,475 bills, 100% NJ ELEC campaign finance, campaign promises, and US Census ACS 2024 5-Year district data.</p>
+      <p><code>React</code> · <code>TypeScript</code> · <code>Vite</code> · <code>NJ ELEC</code> · <code>US Census ACS</code> · <code>GitHub Pages</code></p>
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/Goanarchy/HVAC-StockPro">❄️ HVAC StockPro 1.0</a></h3>
