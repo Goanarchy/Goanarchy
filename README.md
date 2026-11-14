@@ -55,19 +55,27 @@ As an independent software developer, I turn ideas and problems into production-
 
 <table>
   <tr>
-    <td width="33%" valign="top">
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Goanarchy/Watchdogs-NJ-Civic-Analytics">🏛️ Watchdogs Media · Civic Lab</a></h3>
+      <p><strong>Bilingual New Jersey Civic Intelligence &amp; Legislative Analytics</strong></p>
+      <p>EN/ES analytics platform covering all 120 NJ legislators, 11,475 bills, 100% NJ ELEC campaign finance, campaign promises, and US Census ACS 2024 5-Year district data.</p>
+      <p><code>React</code> · <code>TypeScript</code> · <code>Vite</code> · <code>NJ ELEC</code> · <code>US Census ACS</code> · <code>Local-First</code></p>
+    </td>
+    <td width="50%" valign="top">
       <h3><a href="https://github.com/Goanarchy/HVAC-StockPro">❄️ HVAC StockPro 1.0</a></h3>
       <p><strong>Local-First Warehouse Inventory &amp; Job Costing System</strong></p>
       <p>Single-file offline HTML &amp; Node.js/Excel inventory manager for HVAC teams featuring weighted-average costing, instant PDF job receipts, and zero-loss snapshots.</p>
       <p><code>React</code> · <code>TypeScript</code> · <code>Tailwind CSS</code> · <code>Node.js</code> · <code>ExcelJS</code> · <code>jsPDF</code></p>
     </td>
-    <td width="33%" valign="top">
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
       <h3><a href="https://github.com/Goanarchy/LingoLens">📷 LingoLens</a></h3>
       <p><strong>Offline-First Mobile Object &amp; Language Learning App</strong></p>
       <p>Cross-platform mobile application combining real-time object recognition with multi-language vocabulary flashcards and spaced repetition.</p>
       <p><code>React Native</code> · <code>Expo</code> · <code>TypeScript</code> · <code>Computer Vision</code> · <code>Spaced Repetition</code></p>
     </td>
-    <td width="33%" valign="top">
+    <td width="50%" valign="top">
       <h3><a href="https://github.com/Goanarchy/SBBT">📊 SBBT (Budget Tool)</a></h3>
       <p><strong>Small Business Financial &amp; Cash-Flow Suite</strong></p>
       <p>Bilingual (EN/ES) zero-dependency budgeting tool with cash-flow forecasting and automated Excel reporting built for small businesses.</p>
