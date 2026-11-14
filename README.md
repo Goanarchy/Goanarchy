@@ -115,8 +115,8 @@ As an independent software developer, I turn ideas and problems into production-
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Goanarchy&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=38bdf8&text_color=94a3b8&icon_color=38bdf8" height="150" alt="Goanarchy's GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Goanarchy&theme=tokyonight&hide_border=true&layout=compact&title_color=38bdf8&text_color=94a3b8" height="150" alt="Top Languages" />
+<img src="./assets/github-stats.svg" height="165" alt="Goanarchy's GitHub Overview" />
+<img src="./assets/top-langs.svg" height="165" alt="Most Used Languages" />
 
 </div>
 
