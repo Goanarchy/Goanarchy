@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="390" height="175" viewBox="0 0 390 175" role="img" aria-label="Most Used Languages">
+  <defs>
+    <clipPath id="bar-clip">
+      <rect x="24" y="60" width="342" height="10" rx="5" />
+    </clipPath>
+  </defs>
+  <rect x="0.5" y="0.5" width="389" height="174" rx="10" fill="#1a1b27" stroke="#292e42" />
+  <text x="24" y="34" fill="#38bdf8" font-family="Segoe UI, Ubuntu, Helvetica, Arial, sans-serif" font-size="16" font-weight="700">Most Used Languages</text>
+  <line x1="24" y1="46" x2="366" y2="46" stroke="#292e42" stroke-width="1" />
+  <g clip-path="url(#bar-clip)">
+    <rect x="24.0" y="60" width="142.9" height="10" fill="#3178c6" />
+    <rect x="166.9" y="60" width="117.3" height="10" fill="#f1e05a" />
+    <rect x="284.2" y="60" width="31.7" height="10" fill="#e34c26" />
+    <rect x="315.9" y="60" width="27.6" height="10" fill="#012456" />
+    <rect x="343.5" y="60" width="22.5" height="10" fill="#64748b" />
+  </g>
+  <g>
+      <circle cx="29" cy="92" r="5" fill="#3178c6" />
+      <text x="40" y="96" fill="#cbd5e1" font-family="Segoe UI, Ubuntu, Helvetica, Arial, sans-serif" font-size="12" font-weight="600">TypeScript <tspan fill="#94a3b8" font-weight="400">41.8%</tspan></text>
+    </g>
+  <g>
+      <circle cx="211" cy="92" r="5" fill="#f1e05a" />
+      <text x="222" y="96" fill="#cbd5e1" font-family="Segoe UI, Ubuntu, Helvetica, Arial, sans-serif" font-size="12" font-weight="600">JavaScript <tspan fill="#94a3b8" font-weight="400">34.3%</tspan></text>
+    </g>
+  <g>
+      <circle cx="29" cy="120" r="5" fill="#e34c26" />
+      <text x="40" y="124" fill="#cbd5e1" font-family="Segoe UI, Ubuntu, Helvetica, Arial, sans-serif" font-size="12" font-weight="600">HTML <tspan fill="#94a3b8" font-weight="400">9.3%</tspan></text>
+    </g>
+  <g>
+      <circle cx="211" cy="120" r="5" fill="#012456" />
+      <text x="222" y="124" fill="#cbd5e1" font-family="Segoe UI, Ubuntu, Helvetica, Arial, sans-serif" font-size="12" font-weight="600">PowerShell <tspan fill="#94a3b8" font-weight="400">8.1%</tspan></text>
+    </g>
+  <g>
+      <circle cx="29" cy="148" r="5" fill="#64748b" />
+      <text x="40" y="152" fill="#cbd5e1" font-family="Segoe UI, Ubuntu, Helvetica, Arial, sans-serif" font-size="12" font-weight="600">Other <tspan fill="#94a3b8" font-weight="400">6.6%</tspan></text>
+    </g>
+</svg>
