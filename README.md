@@ -1,10 +1,11 @@
 <div align="center">
 
-# Hi, I'm Goanarchy
+# Hi, I'm Andrés (Goanarchy) 👋
 ### **Independent Software Developer · Building Apps, Tools & Digital Products**
 
 <p align="center">
   <a href="https://github.com/Goanarchy"><img src="https://img.shields.io/badge/GitHub-Goanarchy-181717?style=for-the-badge&logo=github" alt="GitHub" /></a>
+  <a href="https://x.com/goanarchy1"><img src="https://img.shields.io/badge/X-@goanarchy1-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (@goanarchy1)" /></a>
   <img src="https://img.shields.io/badge/Role-Independent_Software_Engineer-0ea5e9?style=for-the-badge" alt="Role" />
   <img src="https://img.shields.io/badge/Scope-Web_·_Mobile_·_Tools_·_Systems-10b981?style=for-the-badge" alt="Scope" />
 </p>
@@ -44,6 +45,33 @@ As an independent software developer, I turn ideas and problems into production-
       <h3>🛠️ Developer Utilities & Automation</h3>
       <p>CLI tools, data processing pipelines, report generators, scrapers, and background daemons engineered to save time and reduce friction.</p>
       <p><code>Node.js CLI</code> · <code>Python</code> · <code>Shell / PowerShell</code> · <code>Automation</code></p>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🌟 Featured Projects
+
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h3><a href="https://github.com/Goanarchy/HVAC-StockPro">❄️ HVAC StockPro 1.0</a></h3>
+      <p><strong>Local-First Warehouse Inventory &amp; Job Costing System</strong></p>
+      <p>Single-file offline HTML &amp; Node.js/Excel inventory manager for HVAC teams featuring weighted-average costing, instant PDF job receipts, and zero-loss snapshots.</p>
+      <p><code>React</code> · <code>TypeScript</code> · <code>Tailwind CSS</code> · <code>Node.js</code> · <code>ExcelJS</code> · <code>jsPDF</code></p>
+    </td>
+    <td width="33%" valign="top">
+      <h3><a href="https://github.com/Goanarchy/LingoLens">📷 LingoLens</a></h3>
+      <p><strong>Offline-First Mobile Object &amp; Language Learning App</strong></p>
+      <p>Cross-platform mobile application combining real-time object recognition with multi-language vocabulary flashcards and spaced repetition.</p>
+      <p><code>React Native</code> · <code>Expo</code> · <code>TypeScript</code> · <code>Computer Vision</code> · <code>Spaced Repetition</code></p>
+    </td>
+    <td width="33%" valign="top">
+      <h3><a href="https://github.com/Goanarchy/SBBT">📊 SBBT (Budget Tool)</a></h3>
+      <p><strong>Small Business Financial &amp; Cash-Flow Suite</strong></p>
+      <p>Bilingual (EN/ES) zero-dependency budgeting tool with cash-flow forecasting and automated Excel reporting built for small businesses.</p>
+      <p><code>JavaScript</code> · <code>HTML5 / CSS3</code> · <code>Excel Automation</code> · <code>Local-First</code></p>
     </td>
   </tr>
 </table>
@@ -98,6 +126,6 @@ As an independent software developer, I turn ideas and problems into production-
 
 ### 🤝 Available for Independent Projects & Collaborations
 Have an app, tool, or product you need built from scratch or taken to the next level?  
-**Let's build something great together.** Connect with me right here on [GitHub](https://github.com/Goanarchy).
+**Let's build something great together.** Connect with me on [GitHub](https://github.com/Goanarchy) or reach out on [X (@goanarchy1)](https://x.com/goanarchy1).
 
 </div>
