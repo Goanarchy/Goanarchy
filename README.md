@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Andrés (Goanarchy) 👋
+# Hi, I'm Goanarchy
 ### **Independent Software Developer · Building Apps, Tools & Digital Products**
 
 <p align="center">
