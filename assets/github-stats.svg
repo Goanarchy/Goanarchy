@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="460" height="175" viewBox="0 0 460 175" role="img" aria-label="Goanarchy GitHub Overview">
+  <rect x="0.5" y="0.5" width="459" height="174" rx="10" fill="#1a1b27" stroke="#292e42" />
+  <text x="24" y="34" fill="#38bdf8" font-family="Segoe UI, Ubuntu, Helvetica, Arial, sans-serif" font-size="16" font-weight="700">Goanarchy · Engineering Snapshot</text>
+  <line x1="24" y1="48" x2="436" y2="48" stroke="#292e42" stroke-width="1" />
+
+  <g font-family="Segoe UI, Ubuntu, Helvetica, Arial, sans-serif" font-size="12.5">
+    <circle cx="32" cy="72" r="4" fill="#10b981" />
+    <text x="46" y="76" fill="#94a3b8" font-weight="600">Public Flagship Projects:</text>
+    <text x="434" y="76" fill="#e2e8f0" font-weight="700" text-anchor="end">3 Active Apps</text>
+
+    <circle cx="32" cy="98" r="4" fill="#38bdf8" />
+    <text x="46" y="102" fill="#94a3b8" font-weight="600">Core Domains:</text>
+    <text x="434" y="102" fill="#e2e8f0" font-weight="700" text-anchor="end">Web · Mobile · FinTech · Local-First</text>
+
+    <circle cx="32" cy="124" r="4" fill="#a855f7" />
+    <text x="46" y="128" fill="#94a3b8" font-weight="600">Architecture:</text>
+    <text x="434" y="128" fill="#e2e8f0" font-weight="700" text-anchor="end">Zero-Bloat · Offline-First · Tested</text>
+
+    <circle cx="32" cy="150" r="4" fill="#f59e0b" />
+    <text x="46" y="154" fill="#94a3b8" font-weight="600">Languages Tracked:</text>
+    <text x="434" y="154" fill="#e2e8f0" font-weight="700" text-anchor="end">6 · MIT Open Source</text>
+  </g>
+</svg>
